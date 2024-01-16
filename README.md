@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, I'm Ethan Whitten! 👋
 
-<!--
-**AbsurdTomfoolery/AbsurdTomfoolery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate game designer based in python. I enjoy playing games, listening to music, playing guitar & piano, and love working on Blender projects and 2D Animation as well. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- Programming Languages: Python, CSS
+
+## 🌱 Currently Learning
+
+I'm currently focused on improving my skills in C++.
+
+## 📫 Contact Me
+
+Phone # - 702-771-3316
+Email: ethanwitt1@yahoo.com
+
+## 📝 Latest Blog Posts
+
+Thanks for visiting my GitHub profile! 😊
